@@ -1,0 +1,15 @@
+*{margin: 0;padding: 0;box-sizing: border-box;}
+
+body{font-family: "Plus Jakarta Sans", sans-serif;background: #FAFAFA;}
+
+.main-color{color: #F44335;}
+.main-bg-color{background-color: #F44335;}
+.text-white{color: white;}
+
+.large-text{font-size: 300%;font-weight: 700;}
+
+.btn-transform{transition: 0.3s;&:hover{transform: scale(1.1);background-color: #ff1100;}}
+
+.active{color: #F44335;}
+.top-40{top: 18dvw;}
+.cursor-pointer{cursor: pointer;}
